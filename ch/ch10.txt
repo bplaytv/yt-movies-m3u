@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-AR | Almagharibia TV |  |
+FR | Super Toons TV |  |
 https://www.youtube.com/watch?v=uTLzEHQEWz8
