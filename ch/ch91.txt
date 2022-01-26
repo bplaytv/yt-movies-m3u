@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-AR | fifa tv |  |
-https://www.youtube.com/fifa/live
+SAUDI 24|  |
+https://www.youtube.com/channel/UCpvqIJaD7pjFHQYfptzwUaw/live
