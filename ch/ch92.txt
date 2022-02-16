@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-AR | Russia Alyaoum |  |
-https://www.youtube.com/channel/UCsP3Clx2qtH2mNZ6KolVoZQ/live
+Sharjah Radio Quran |  |
+https://www.youtube.com/channel/UCn8lMRYDANs_1yAL3iuw7_g/live
