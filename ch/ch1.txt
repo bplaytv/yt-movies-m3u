@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 NatGeo |  |
-https://www.youtube.com/@NatGeo/streams
+https://www.youtube.com/@NatGeo/live
