@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
- Al Plateau |  |
-https://www.youtube.com/watch?v=_ukPXP7DPUY
+NatGeo |  |
+https://www.youtube.com/@NatGeo/streams
