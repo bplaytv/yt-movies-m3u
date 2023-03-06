@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
- عبد الباسط عبد الصمد |  |
-https://www.youtube.com/user/ABD0LBASIT60HIZB/live
+NatGeoWild |  |  |
+https://www.youtube.com/@NatGeoWild/live
