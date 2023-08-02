@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/Winges4k/Serie-Ertugrul-AR/main/assets/moose_na.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1690959611/ei/m6rJZLP2J4ml_9EP2Y2ZeA/ip/20.57.68.137/id/gKDjesLozm4.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-p5qlsn76.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f6tiw7K5TvJzv5nPmaArQib0zFCuPhzypgSDsw/vprv/1/playlist_type/DVR/mh/Q3/mm/44/mn/sn-p5qlsn76/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246,51000022/mt/1690937404/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhAOqX-5huaBzRHJFBK1aa8aDqFBihVyaZ4ao9-wsJdG1XAiAUBOc0U1UD8DMOAOTtRlzrKqzn8RZhucFmuIhw-ysM4w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgU0OxGQmPMnzDAEJCxcyfMlGb5x8XcCVGBp0gahwUPDYCIQDauqoddo8fkokjHD2tHNcRp9JBj_5Pnqfd6M_8PeM92Q%3D%3D/playlist/index.m3u8
