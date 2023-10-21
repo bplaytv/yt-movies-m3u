@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1697865112/ei/NwkzZZPCO5KV_9EP4aSf0Ag/ip/52.226.126.230/id/eSiYKglUubY.1/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/rr4---sn-p5qlsn7s.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f5H060uRM2kWjGkhojYkpbMQgEnxQQyKDx39rw/vprv/1/playlist_type/DVR/initcwndbps/706250/mh/U9/mm/44/mn/sn-p5qlsn7s/ms/lva/mv/m/mvi/4/pl/15/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1697843073/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRgIhAP2XDlUK9wHQr2lmNDH_GwJkYogN7CBnu92OeNw6sjkVAiEAvEsdKgpCbjcusq_ol5TMHxe3CERXyT949vM5Py7A4es%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIhAMiXb8Jj2nEbm1fFwG4ImSJHQfm1hC7tOCTzVioIgDPhAiAFzd8YBz9Am5cFrbGwZfaUdnIB89GSrp-SGXiKtnT-dQ%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets//moose_na.m3u8
